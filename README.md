@@ -15,7 +15,7 @@
   
   <img src = "Gif/tinder.gif"  >
   
-  **[⬆ Back to Top](#airbnb-clone)**
+  **[⬆ Back to Top](#tinder-clone)**
 
 ## Technologies I've used:
     1. react-tinder-card => to make the elements behave like card with swapable feature just like tinder.
@@ -29,4 +29,4 @@
     5. firebase => to deploy the app
     
     
-  **[⬆ Back to Top](#airbnb-clone)**
+  **[⬆ Back to Top](#tinder-clone)**
