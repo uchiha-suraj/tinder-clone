@@ -22,11 +22,13 @@
     
     2. react => Entire front-end design of this app is made by Reactjs.
     
-    3. react-router => to move through the different pages of this app.
+    3. flex-box => used flexbox in CSS.
     
-    4. material-UI => I've used Material-UI to design this application.
+    4. react-router => to move through the different pages of this app.
+    
+    5. material-UI => I've used Material-UI to design this application.
         
-    5. firebase => to deploy the app
+    6. firebase => to deploy the app
     
     
   **[⬆ Back to Top](#tinder-clone)**
