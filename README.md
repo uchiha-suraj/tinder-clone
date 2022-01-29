@@ -1,4 +1,4 @@
-# TINDER-CLONE
+# TINDER-CLONE 
 
 <img src = "img/tinder.png"  > 
 
